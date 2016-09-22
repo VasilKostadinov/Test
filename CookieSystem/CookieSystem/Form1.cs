@@ -19,6 +19,7 @@ namespace CookieSystem
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Console.WriteLine(4);
             Console.WriteLine(2);
             Console.WriteLine(1);
             Console.WriteLine(4);
